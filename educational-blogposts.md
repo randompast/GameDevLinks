@@ -1,0 +1,12 @@
+[Back](educational.md)
+#Blog posts:
+  * [AI to create games](http://www.gamesbyangelina.org/about/)
+  * [6th grade MMO classroom](http://kotaku.com/5890278/samurai-yetis-and-ninja-werewolves-how-one-teacher-turned-sixth-grade-into-an-mmo)
+  * [Future of Edu Games](https://www.edsurge.com/n/2015-01-16-from-shooting-bisons-to-fighting-orcs-the-future-of-educational-games)
+  * [Germany internships](http://www.theatlantic.com/business/archive/2014/10/why-germany-is-so-much-better-at-training-its-workers/381550/)
+  * [Vulcan Earth Academy](http://www.evolllution.com/distance_online_learning/vulcan-approach-education-horizon/)
+  * [Problem before solution](http://mkremins.github.io/blog/doors-headaches-intellectual-need/)
+  * [Inequality](http://www.washingtonpost.com/blogs/answer-sheet/wp/2015/01/29/teacher-i-see-the-difference-in-educational-privilege-every-day-i-live-it-i-am-disgusted-by-it/?tid=sm_fb)
+  * [Real R&D](http://www.bloomberg.com/news/articles/2015-01-29/sap-looks-to-xerox-for-r-d-inspiration-builds-idea-lab)
+  * [Knowledge graph](http://www.stateofdigital.com/search-in-the-knowledge-graph-era/)
+  * [Veritasium Revolutionize Education](https://www.youtube.com/watch?v=GEmuEWjHr5c)
