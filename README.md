@@ -12,3 +12,4 @@ Feel free to contribute links, hopefully this is a useful resource to others.
   * [Game Jams](jams.md)
   * [Graphics](graphics.md)
   * [Language Design](lagnguage-design.md)
+  * [Other Lists](other-lists.md)
