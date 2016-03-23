@@ -1,4 +1,4 @@
-[Back](README.md)
+[Back](art.md)
 #Art:
   * [Open Game Art](http://opengameart.org/)
   * [BlendSwap](http://www.blendswap.com/)
