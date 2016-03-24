@@ -16,3 +16,4 @@ Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
 Freenode #unity3d, #UE4Linux
   * [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4)
   * [Unity](https://unity3d.com/)
+  * [Defold](http://www.defold.com/)
