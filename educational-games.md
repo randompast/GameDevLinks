@@ -20,3 +20,4 @@
   * [50 Serious](http://www.onlinecolleges.net/50-great-sites-for-serious-educational-games/)
   * [Math Playground](http://www.mathplayground.com/)
   * [Cool Math](http://www.coolmath-games.com/)
+  * [Human Resource Machine](http://store.steampowered.com/app/375820/)
