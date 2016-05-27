@@ -21,3 +21,4 @@
   * [Math Playground](http://www.mathplayground.com/)
   * [Cool Math](http://www.coolmath-games.com/)
   * [Human Resource Machine](http://store.steampowered.com/app/375820/)
+  * [Quantum Moves](http://www.nature.com/news/human-mind-excels-at-quantum-physics-computer-game-1.19725)
