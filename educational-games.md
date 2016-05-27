@@ -24,3 +24,4 @@
   * [Quantum Moves](http://www.nature.com/news/human-mind-excels-at-quantum-physics-computer-game-1.19725)
   * [Factorio](https://www.factorio.com/)
   * [Blueprint Tycoon](http://store.steampowered.com/app/454060/)
+  * [Kerbal Space Program](https://kerbalspaceprogram.com/en/)
