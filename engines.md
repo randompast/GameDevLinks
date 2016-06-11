@@ -5,7 +5,6 @@
 Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
 
   * [HTML5 Engine List](http://html5gameengine.com/)
-
   * [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * [Gamekit](http://wearekiss.com/gamekit/en/page/introduction)
   * [Phaser](http://phaser.io/)
