@@ -5,13 +5,17 @@
 Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
 
   * [HTML5 Engine List](http://html5gameengine.com/)
-  * [Turbulenz](http://biz.turbulenz.com/developers)
-  * [Pixi](http://www.pixijs.com/)
-  * [Phaser](http://phaser.io/)
-   * [Udemy Phaser Course](https://www.udemy.com/making-games-games-with-phaser/?couponCode&pmtag=FATHERS30OFF&siteID=lzAk459zR_w-LHI1JHoX_4K7CVBDmvO0RQ&LSNPUBID=lzAk459zR%2Fw)
+
   * [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  * [Gamekit](http://wearekiss.com/gamekit/en/page/introduction)
+  * [Phaser](http://phaser.io/)
+   * [Phaser Udemy Course](https://www.udemy.com/making-games-games-with-phaser/?couponCode&pmtag=FATHERS30OFF&siteID=lzAk459zR_w-LHI1JHoX_4K7CVBDmvO0RQ&LSNPUBID=lzAk459zR%2Fw)
+  * [Pixi](http://www.pixijs.com/)
+  * [Playground.js](http://playgroundjs.com/)
+  * [ReGL](https://github.com/mikolalysenko/regl)
   * [StackGL](http://stack.gl/)
   * [Threejs](http://threejs.org/)
+  * [Turbulenz](http://biz.turbulenz.com/developers)
 
 ##Cross Platform
 Freenode #unity3d, #UE4Linux
