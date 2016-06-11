@@ -10,6 +10,7 @@ Feel free to contribute links, hopefully this is a useful resource to others.
   * [Business](business.md)
   * [Design](design.md)
   * [Educational](educational.md)
+  * [Engines](engines.md)
   * [Game Jams](jams.md)
   * [Graphics](graphics.md)
   * [Language Design](language-design.md)
