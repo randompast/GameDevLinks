@@ -6,6 +6,7 @@ Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
 
   * [HTML5 Engine List](http://html5gameengine.com/)
   * [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  * [Game Pencil Engine](https://pawbyte.itch.io/game-pencil-engine)
   * [Gamekit](http://wearekiss.com/gamekit/en/page/introduction)
   * [Phaser](http://phaser.io/)
    * [Phaser Udemy Course](https://www.udemy.com/making-games-games-with-phaser/?couponCode&pmtag=FATHERS30OFF&siteID=lzAk459zR_w-LHI1JHoX_4K7CVBDmvO0RQ&LSNPUBID=lzAk459zR%2Fw)
