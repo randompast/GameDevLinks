@@ -16,8 +16,6 @@
   * [Dragonbox](http://dragonbox.com/)
   * [funbrain](http://www.funbrain.com/)
   * [ABCya](http://www.abcya.com/)
-  * [Top 10](http://yukaichou.com/gamification-examples/top-ten-learning-games-kids/#.VpR6riCrQUQ)
-  * [50 Serious](http://www.onlinecolleges.net/50-great-sites-for-serious-educational-games/)
   * [Math Playground](http://www.mathplayground.com/)
   * [Cool Math](http://www.coolmath-games.com/)
   * [Human Resource Machine](http://store.steampowered.com/app/375820/)
@@ -25,3 +23,10 @@
   * [Factorio](https://www.factorio.com/)
   * [Blueprint Tycoon](http://store.steampowered.com/app/454060/)
   * [Kerbal Space Program](https://kerbalspaceprogram.com/en/)
+  * [Ko's Journey](https://www.youtube.com/watch?v=FfwNqNKlJWk)
+
+#lists
+  * [ECEDU](http://steamcommunity.com/groups/ExtraCreditsEDU#curation)
+  * [List of Educational Video Games](https://en.wikipedia.org/wiki/List_of_educational_video_games)
+  * [Top 10](http://yukaichou.com/gamification-examples/top-ten-learning-games-kids/#.VpR6riCrQUQ)
+  * [50 Serious](http://www.onlinecolleges.net/50-great-sites-for-serious-educational-games/)
