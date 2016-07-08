@@ -22,3 +22,6 @@ Freenode #unity3d, #UE4Linux
   * [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4)
   * [Unity](https://unity3d.com/)
   * [Defold](http://www.defold.com/)
+
+##Making your own
+  * [TheHappieCat: How to Make a Game Engine](https://www.youtube.com/watch?v=OFIRzi2ur6k)
