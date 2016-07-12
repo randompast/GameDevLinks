@@ -11,3 +11,6 @@
 ##Krita
   * [Krita](https://krita.org/en/)
   * [Krita Brushkit v8](http://davidrevoy.com/article319/krita-brushkit-v8-0)
+
+##Tips
+  * [So you want to be a pixel artist](http://gas13.ru/v3/tutorials/sywtbapa_almighty_grass_tile.php)
