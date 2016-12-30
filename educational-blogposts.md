@@ -10,3 +10,4 @@
   * [Real R&D](http://www.bloomberg.com/news/articles/2015-01-29/sap-looks-to-xerox-for-r-d-inspiration-builds-idea-lab)
   * [Knowledge graph](http://www.stateofdigital.com/search-in-the-knowledge-graph-era/)
   * [Veritasium Revolutionize Education](https://www.youtube.com/watch?v=GEmuEWjHr5c)
+  * [Grade Skipping](https://www.scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/)
