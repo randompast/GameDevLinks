@@ -1,7 +1,9 @@
-[Bach](Readme.md)
+[Back](Readme.md)
 
-#Gamedev Jobs
+# Gamedev Jobs
+
   * ...?
 
-#Generic Jobs
+# Generic Jobs
+
   * [Hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards)
