@@ -1,5 +1,6 @@
 [Back](README.md)
-#Other Lists
+
+# Other Lists
    * [Red Blob Games](http://www.redblobgames.com/)
    * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
    * [Parse Alternatives](https://github.com/relatedcode/ParseAlternatives)
