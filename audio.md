@@ -1,5 +1,6 @@
 [Back](README.md)
 #Audio
+  * [awesome-webaudio](https://github.com/notthetup/awesome-webaudio)
   * [Web Audio School](https://github.com/mmckegg/web-audio-school)
   * [Beep.js](http://beepjs.com/)
   * [Dynamic Audio of Vessel](http://gdcvault.com/play/1015369/The-Dynamic-Audio-of)
