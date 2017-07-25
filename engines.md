@@ -1,8 +1,8 @@
 [Back](README.md)
-#Game Engines
+# Game Engines
 
-##BBG
-Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
+## BBG
+### Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
 
   * [HTML5 Engine List](http://html5gameengine.com/)
   * [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
@@ -17,11 +17,11 @@ Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
   * [Threejs](http://threejs.org/)
   * [Turbulenz](http://biz.turbulenz.com/developers)
 
-##Cross Platform
-Freenode #unity3d, #UE4Linux
+## Cross Platform
+### Freenode #unity3d, #UE4Linux
   * [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4)
   * [Unity](https://unity3d.com/)
   * [Defold](http://www.defold.com/)
 
-##Making your own
+## Making your own
   * [TheHappieCat: How to Make a Game Engine](https://www.youtube.com/watch?v=OFIRzi2ur6k)
