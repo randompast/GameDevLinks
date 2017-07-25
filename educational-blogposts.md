@@ -1,5 +1,5 @@
 [Back](educational.md)
-#Blog posts:
+# Blog posts:
   * [AI to create games](http://www.gamesbyangelina.org/about/)
   * [6th grade MMO classroom](http://kotaku.com/5890278/samurai-yetis-and-ninja-werewolves-how-one-teacher-turned-sixth-grade-into-an-mmo)
   * [Future of Edu Games](https://www.edsurge.com/n/2015-01-16-from-shooting-bisons-to-fighting-orcs-the-future-of-educational-games)
