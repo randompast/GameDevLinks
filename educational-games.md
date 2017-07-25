@@ -25,7 +25,7 @@
   * [Kerbal Space Program](https://kerbalspaceprogram.com/en/)
   * [Ko's Journey](https://www.youtube.com/watch?v=FfwNqNKlJWk)
 
-# lists
+# Lists
   * [ECEDU](http://steamcommunity.com/groups/ExtraCreditsEDU#curation)
   * [List of Educational Video Games](https://en.wikipedia.org/wiki/List_of_educational_video_games)
   * [Top 10](http://yukaichou.com/gamification-examples/top-ten-learning-games-kids/#.VpR6riCrQUQ)
