@@ -1,5 +1,5 @@
 [Back](README.md)
-#Educational
+# Educational
   * [Curriculum](educational-curriculum.md)
   * [Games](educational-games.md)
   * [Blog Posts](educational-blogposts.md)
