@@ -1,5 +1,5 @@
 [Back](README.md)
-#Jams
+# Jams
   * [itch](https://itch.io/jams)
   * [Indie Game Jams](http://www.indiegamejams.com/)
   * [compohub](http://compohub.net/)
