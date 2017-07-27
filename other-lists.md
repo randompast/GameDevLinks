@@ -7,3 +7,7 @@
    * [Indie Resources](http://www.pixelprospector.com/indie-resources/)
    * [Games on Github](https://github.com/leereilly/games)
    * [awesome-webaudio links](https://github.com/notthetup/awesome-webaudio)
+
+# Mentors (most seem happy to help)
+  * [List maintained by sehurlburt](http://stephaniehurlburt.com/blog/2016/11/14/list-of-engineers-willing-to-mentor-you)
+  * [List maintained by ishansharma](https://ishansharma.github.io/twitter-mentors/)
