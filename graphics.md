@@ -11,6 +11,7 @@
   * [Object/Object Intersection](http://www.realtimerendering.com/intersections.html)
   * [Reddit Graphics Programming](https://www.reddit.com/r/GraphicsProgramming/)
   * [Jvanverth Essential Math OpenGL](https://github.com/jvanverth/essentialmath)
+  * [Ubershaders](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
 
 ## Terrain
   * [Rendering Large Terrains](http://www.pheelicks.com/2014/03/rendering-large-terrains/)
