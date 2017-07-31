@@ -10,6 +10,7 @@
   * [Drawing Lines is Hard](https://mattdesl.svbtle.com/preview/xz6WwlkNWHxQv2CgAe9)
   * [Object/Object Intersection](http://www.realtimerendering.com/intersections.html)
   * [Reddit Graphics Programming](https://www.reddit.com/r/GraphicsProgramming/)
+  * [Jvanverth Essential Math OpenGL](https://github.com/jvanverth/essentialmath)
 
 ## Terrain
   * [Rendering Large Terrains](http://www.pheelicks.com/2014/03/rendering-large-terrains/)
