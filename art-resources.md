@@ -4,3 +4,4 @@
   * [BlendSwap](http://www.blendswap.com/)
   * [3d warehouse](https://3dwarehouse.sketchup.com/?hl=en)
   * [Kenney Assets](http://kenney.nl/assets)
+  * [Poly (Google)](https://poly.google.com/)
