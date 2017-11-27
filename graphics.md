@@ -28,6 +28,7 @@
   * [Procedural Dungeon](http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/)
   * [Create Content with Signed Distance Functions](https://www.youtube.com/watch?v=s8nFqwOho-s)
   * [Distance Fields Undergrad Thesis](http://aka-san.halcy.de/distance_fields_prefinal.pdf)
+  * [Noise Loop GIFs](https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/)
 
 ## WebGL
   * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217)
