@@ -6,6 +6,7 @@
   * [Reading](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
   * [ISOCPP](https://isocpp.org/)
   * Spirit, Boost Statechart
+  * [Compiler Explorer](https://gcc.godbolt.org/)
 
 ## Unreal
   * [survival game](https://www.tomlooman.com/survival-sample-game-for-ue4/)
