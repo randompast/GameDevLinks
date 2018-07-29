@@ -1,5 +1,7 @@
 # GameDevLinks
 
+Rather than dumping to a bookmarks folder on my machine, I'm sharing various links I come across.
+
 Feel free to contribute links, hopefully this is a useful resource to others.
 
   * [Getting Started](getting-started.md)
