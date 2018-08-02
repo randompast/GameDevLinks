@@ -28,6 +28,7 @@
  * C++ [toy](https://github.com/hugoam/toy)
  * C++ [godot](https://godotengine.org/)
  * Python [pygame](https://www.pygame.org)
+ * Python [pyxel](https://github.com/kitao/pyxel)
 
 ## Making your own
   * [TheHappieCat: How to Make a Game Engine](https://www.youtube.com/watch?v=OFIRzi2ur6k)
