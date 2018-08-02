@@ -1,7 +1,6 @@
 [Back](README.md)
 # Game Engines
 
-## BBG
 ### Browser Based Games, #bbg, #stackgl, #three.js (IRC freenode)
 
   * [HTML5 Engine List](http://html5gameengine.com/)
@@ -17,7 +16,6 @@
   * [Threejs](http://threejs.org/)
   * [Turbulenz](http://biz.turbulenz.com/developers)
 
-## Cross Platform
 ### Freenode #unity3d, #UE4Linux
   * [Unreal](https://www.unrealengine.com/what-is-unreal-engine-4)
   * [Unity](https://unity3d.com/)
