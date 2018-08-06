@@ -7,6 +7,7 @@
   * [ISOCPP](https://isocpp.org/)
   * Spirit, Boost Statechart
   * [Compiler Explorer](https://gcc.godbolt.org/)
+  * [Programming Memory](https://lwn.net/Articles/250967/)
 
 ## Unreal
   * [survival game](https://www.tomlooman.com/survival-sample-game-for-ue4/)
